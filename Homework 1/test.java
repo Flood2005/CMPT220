@@ -9,6 +9,6 @@ public class test {
         System.out.println(myname);
         int age = 19;
         System.out.println(age);
-        System.out.println("My name is "+ myname + " I am " + age + " years old" );
+        System.out.println("My name is "+ myname + " I am  " + age + " years old" );
     }
 }
