@@ -21,7 +21,7 @@ public class Debug {
         int num1 = 10;
         int num2 = 37;
         //?
-        System.out.print(num1 + num2);        
+        System.out.print(num1 + num2 );        
 
     }
 }
